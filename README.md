@@ -1,3 +1,3 @@
-# Maude
+# First Class Exercise
 
 Literally an experiment.
